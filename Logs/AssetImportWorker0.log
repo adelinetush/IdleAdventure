@@ -15,11 +15,11 @@ C:/Users/Oye Oluwaseun/Documents/upwork/FirstProject/IdleAdventure
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51122
+60202
 Successfully changed project path to: C:/Users/Oye Oluwaseun/Documents/upwork/FirstProject/IdleAdventure
 C:/Users/Oye Oluwaseun/Documents/upwork/FirstProject/IdleAdventure
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 6126.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 9853.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.2.2/Unity/Editor/Data/Resources/UnitySubsystems
@@ -31,3 +31,9 @@ Direct3D:
     Vendor:   
     VRAM:     1991 MB
     Driver:   20.19.15.4703
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.2.2/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.2.2/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.2.2/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Begin MonoManager ReloadAssembly
